@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "trackdown"]
-	path = trackdown
-	url = https://github.com/claudiozandonella/trackdown
-	shallow = true
-	registered = true
 [submodule "PRDA"]
 	path = PRDA
 	url = https://github.com/claudiozandonella/prda
+	shallow = true
+	registered = true
+[submodule "trackdown"]
+	path = trackdown
+	url = https://github.com/claudiozandonella/trackdown
 	shallow = true
 	registered = true

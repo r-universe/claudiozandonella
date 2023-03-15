@@ -1,10 +1,10 @@
 [
   {
-    "package": "trackdown",
+    "package": "PRDA",
     "oncran": true
   },
   {
-    "package": "PRDA",
+    "package": "trackdown",
     "oncran": true
   }
 ]
